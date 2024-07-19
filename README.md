@@ -4,13 +4,15 @@ a Full Stack web app that allows users to review movies, done with SpringBoot an
 ## Backend
 
 ### Stack
-- Mongo Compass;
-- Java Springboot
+- Mongo Atlas;
+- SpringBoot
 
 ## Frontend:
 
 ### Stack
 - React
-- JS
 
+## Hosting
+
+The app is hosted locally
 
